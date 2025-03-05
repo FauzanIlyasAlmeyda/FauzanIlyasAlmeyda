@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FauzanIlyasAlmeyda
+- 👋 Hi, I’m Fauzan
 - 👀 I’m interested in software developer and IOT Engineer
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
